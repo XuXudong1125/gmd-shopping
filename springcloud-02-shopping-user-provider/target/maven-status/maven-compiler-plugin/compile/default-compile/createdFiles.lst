@@ -1,0 +1,7 @@
+com\springcloud\SpringCloudUserProvider.class
+com\springcloud\repository\UsersRepository.class
+com\springcloud\common\CorsConfig.class
+com\springcloud\service\UsersService.class
+com\springcloud\service\impl\UsersServiceImpl.class
+com\springcloud\controller\UsersController.class
+com\springcloud\service\impl\UsersServiceImpl$1.class
